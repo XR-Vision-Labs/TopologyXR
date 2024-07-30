@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - 1U
+  - exempt
+  - wall
+  - obstacle
+  - floor
+  - wirecube
+  - start
+  - end
+  - End
+  - 2U
+  - 4U
+  - SamplesInfoPanel
+  - rack
+  - select
+  - RoomLight
+  - segment
+  - ceiling
+  - player
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - serversnap
+  - Water
+  - UI
+  - wire
+  - server
+  - ethernetplug
+  - rack
+  - ethernet
+  - nocollide
+  - sfp
+  - wirecube
+  - server2
+  - power_plug_start
+  - select
+  - pole
+  - menu
+  - pole_obj
+  - wall
+  - power_plug_end
+  - point
+  - floor
+  - door
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

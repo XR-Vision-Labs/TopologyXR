@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes/StartUpScene.unity
+    guid: 630986b4ea131df49996bfdbfb7fb677
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes/Transform NewModels realtime model.unity
+    guid: 4e404189e461e6d40a47ccedd15f3fac
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 9ffea97b7bc05a848a304e751b8b38a8,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5c57580a207cdf348b75d29ce0a0465e,
+      type: 2}
